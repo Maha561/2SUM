@@ -6,6 +6,7 @@ public class Main {
         int target = 14;
         int n = arr.length;
         Arrays.sort(arr);
+        // 2 5 6 8 11
 
         // 2 pointer
 
